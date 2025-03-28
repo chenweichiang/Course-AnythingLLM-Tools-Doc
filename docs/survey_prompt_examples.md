@@ -1,7 +1,7 @@
 # AnythingLLM 問卷調查 Prompt 範例集
 
-![版本](https://img.shields.io/badge/版本-1.7.4-blue)
-![更新日期](https://img.shields.io/badge/更新日期-2025--03--20-brightgreen)
+![版本](https://img.shields.io/badge/版本-1.7.5-blue)
+![更新日期](https://img.shields.io/badge/更新日期-2025--03--29-brightgreen)
 ![作者](https://img.shields.io/badge/作者-AI%20工具教學團隊-orange)
 
 ## 目錄
