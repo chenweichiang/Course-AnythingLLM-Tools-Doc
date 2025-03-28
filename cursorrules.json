@@ -1,0 +1,121 @@
+{
+  "version": "1.0",
+  "documentTypes": {
+    "quickStart": {
+      "title": "快速上手指南",
+      "sections": [
+        {
+          "name": "系統需求",
+          "required": true,
+          "subsections": [
+            "作業系統版本要求",
+            "硬體配置要求",
+            "網路需求"
+          ]
+        },
+        {
+          "name": "安裝步驟",
+          "required": true,
+          "platformSpecific": true,
+          "subsections": [
+            "下載安裝檔",
+            "安裝過程",
+            "初始設定"
+          ]
+        },
+        {
+          "name": "基本操作",
+          "required": true,
+          "subsections": [
+            "啟動應用程式",
+            "介面概覽",
+            "第一次使用設定"
+          ]
+        }
+      ]
+    },
+    "basicUsage": {
+      "title": "基礎使用指南",
+      "sections": [
+        {
+          "name": "功能介紹",
+          "required": true,
+          "subsections": [
+            "主要功能概述",
+            "使用者介面說明",
+            "常用功能詳解"
+          ]
+        },
+        {
+          "name": "日常操作",
+          "required": true,
+          "subsections": [
+            "資料管理",
+            "檔案處理",
+            "設定調整"
+          ]
+        },
+        {
+          "name": "常見問題",
+          "required": true,
+          "subsections": [
+            "問題排除",
+            "錯誤訊息說明",
+            "常見疑問解答"
+          ]
+        }
+      ]
+    },
+    "advancedUsage": {
+      "title": "進階使用指南",
+      "sections": [
+        {
+          "name": "進階功能",
+          "required": true,
+          "subsections": [
+            "高級設定選項",
+            "自訂化配置",
+            "效能優化"
+          ]
+        },
+        {
+          "name": "整合應用",
+          "required": true,
+          "subsections": [
+            "與其他工具整合",
+            "API 使用",
+            "自動化流程"
+          ]
+        },
+        {
+          "name": "最佳實踐",
+          "required": true,
+          "subsections": [
+            "使用建議",
+            "安全性考量",
+            "效能建議"
+          ]
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "required": true,
+    "fields": [
+      "version",
+      "lastUpdated",
+      "author",
+      "references"
+    ]
+  },
+  "platformSpecific": {
+    "windows": {
+      "osVersions": ["Windows 10", "Windows 11"],
+      "specificSections": ["安裝步驟", "系統設定"]
+    },
+    "macos": {
+      "osVersions": ["macOS 11+"],
+      "specificSections": ["安裝步驟", "系統設定"]
+    }
+  }
+} 
