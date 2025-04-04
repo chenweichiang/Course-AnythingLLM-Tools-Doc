@@ -1,14 +1,14 @@
 # AI 工具安裝使用說明
 
-![版本](https://img.shields.io/badge/版本-1.7.5-blue)
-![更新日期](https://img.shields.io/badge/更新日期-2025--03--29-green)
+![版本](https://img.shields.io/badge/版本-1.7.6-blue)
+![更新日期](https://img.shields.io/badge/更新日期-2025--04--05-green)
 ![文檔狀態](https://img.shields.io/badge/文檔狀態-最新-success)
 
 這個倉庫包含了各種 AI 工具的安裝和使用說明文檔。
 
 ## 版本資訊
-- 當前版本：1.7.5
-- 發布日期：2025-03-29
+- 當前版本：1.7.6
+- 發布日期：2025-04-05
 - 支援 AnythingLLM 版本：1.7.4
 - 文檔更新週期：每月更新
 
@@ -134,6 +134,11 @@
 - [社群討論區](https://community.example.com)
 
 ## 更新日誌
+- **2025-04-05**
+  - 更新文檔版本號至 1.7.6
+  - 更新文檔日期
+  - 優化問卷調查工具連結
+
 - **2025-03-29**
   - 重整主要 README 結構
   - 優化文檔導覽和分類
@@ -158,4 +163,4 @@
   - 新增系統整合說明
 
 ## 授權說明
-本文檔採用 [MIT 授權條款](LICENSE) 
+本文檔採用 [MIT 授權條款](LICENSE)
