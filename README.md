@@ -15,40 +15,40 @@
 ## 快速導覽
 
 ### 📊 問卷調查工具
-1. [問卷設計與 LLM 輔助指南](/docs/survey_guide_with_llm.md)
+1. [問卷設計與 LLM 輔助指南](docs/survey_guide_with_llm.md)
    - AI 輔助問卷設計方法
    - 問卷設計最佳實踐
    - LLM 應用技巧
 
-2. [問卷分析指南](/docs/survey_analysis_guide.md)
+2. [問卷分析指南](docs/survey_analysis_guide.md)
    - 資料預處理方法
    - 統計分析技術
    - 結果解釋指引
 
-3. [問卷調查 Prompt 範例集](/docs/survey_prompt_examples.md)
+3. [問卷調查 Prompt 範例集](docs/survey_prompt_examples.md)
    - 前期規劃 Prompt
    - 問卷設計 Prompt
    - 資料分析 Prompt
    - 報告撰寫 Prompt
 
 ### 📘 基礎使用指南
-- [Windows 版本](/docs/anythingllm/basic/windows/README.md)
+- [Windows 版本](docs/anythingllm/basic/windows/README.md)
   - 安裝設定
   - 基本操作
   - 常見問題
 
-- [macOS 版本](/docs/anythingllm/basic/macos/README.md)
+- [macOS 版本](docs/anythingllm/basic/macos/README.md)
   - 安裝設定
   - 基本操作
   - 常見問題
 
 ### 📚 進階使用指南
-- [Windows 版本](/docs/anythingllm/advanced/windows/README.md)
+- [Windows 版本](docs/anythingllm/advanced/windows/README.md)
   - 高級功能
   - 系統整合
   - 效能優化
 
-- [macOS 版本](/docs/anythingllm/advanced/macos/README.md)
+- [macOS 版本](docs/anythingllm/advanced/macos/README.md)
   - 高級功能
   - 系統整合
   - 效能優化
@@ -57,19 +57,16 @@
 
 ### 💡 問卷相關範例
 1. **問卷設計範本**
-   - [使用者體驗評估問卷](/examples/surveys/ux_evaluation.md)
-   - [客戶滿意度調查](/examples/surveys/customer_satisfaction.md)
-   - [產品反饋收集](/examples/surveys/product_feedback.md)
+   - [使用者體驗評估問卷](docs/anythingllm/survey/user_experience_survey.md)
+   - [問卷操作指南](docs/anythingllm/survey/survey_operation_guide.md)
 
-2. **資料分析範例**
-   - [描述性統計分析](/examples/analysis/descriptive_stats.md)
-   - [相關性分析](/examples/analysis/correlation.md)
-   - [文本分析](/examples/analysis/text_analysis.md)
+2. **資料分析指南**
+   - [詳細分析流程](docs/survey_analysis_guide.md)
+   - [問卷分析案例](docs/anythingllm/survey/survey_analysis_guide.md)
 
-3. **報告範本**
-   - [執行摘要模板](/examples/reports/executive_summary.md)
-   - [完整報告範本](/examples/reports/full_report.md)
-   - [視覺化圖表範例](/examples/reports/visualization.md)
+3. **相關資源**
+   - [AnythingLLM 指南](docs/anythingllm/README.md)
+   - [入門指南](docs/getting-started.md)
 
 ## 功能特色
 
@@ -112,26 +109,25 @@
 ## 常見問題解答
 
 ### ❓ 問卷設計
-- [如何選擇適當的問題類型？](/docs/faq/question_types.md)
-- [如何避免問卷偏差？](/docs/faq/survey_bias.md)
-- [如何確保問卷品質？](/docs/faq/quality_control.md)
+- [如何設計有效的問卷調查？](docs/survey_guide_with_llm.md#問卷設計流程)
+- [如何避免問卷偏差？](docs/survey_guide_with_llm.md#最佳實踐建議)
+- [如何確保問卷品質？](docs/survey_guide_with_llm.md#問卷執行與資料收集)
 
 ### 📊 資料分析
-- [如何處理缺失值？](/docs/faq/missing_data.md)
-- [如何選擇分析方法？](/docs/faq/analysis_methods.md)
-- [如何解釋分析結果？](/docs/faq/result_interpretation.md)
+- [如何處理缺失值？](docs/survey_analysis_guide.md#資料清理)
+- [如何選擇分析方法？](docs/survey_analysis_guide.md#分析方法)
+- [如何解釋分析結果？](docs/survey_analysis_guide.md#報告生成)
 
 ### 🔧 技術支援
-- [安裝配置問題](/docs/faq/installation.md)
-- [功能使用疑問](/docs/faq/usage.md)
-- [系統整合諮詢](/docs/faq/integration.md)
+- [AnythingLLM 相關問題](docs/anythingllm/README.md)
+- [快速入門指南](docs/getting-started.md)
+- [系統需求說明](docs/anythingllm/quickstart/macos/README.md)
 
 ## 聯絡方式
 
 ### 📮 取得協助
-- [GitHub Issues](https://github.com/your-repo/issues)
-- [技術支援郵件](mailto:support@example.com)
-- [社群討論區](https://community.example.com)
+- [GitHub Issues](https://github.com/chenweichiang/Course-AnythingLLM-Tools-Doc/issues)
+- [技術支援郵件](mailto:skipclass@gmail.com)
 
 ## 更新日誌
 - **2025-04-05**
