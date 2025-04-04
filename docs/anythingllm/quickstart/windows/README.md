@@ -39,7 +39,10 @@
 
 ### 初始設定
 1. 首次啟動時，需要設定管理員帳號
-2. 選擇要使用的語言模型（本地或雲端）
+2. **選擇語言模型：強烈建議選擇「本地模型」**
+   - 本地模型可完全在您的電腦上運行，無需網路連接，保護您的數據隱私
+   - 支援多種本地模型如 LlamaCpp、Llama 3、Mistral 等
+   - 依照您的硬體配置調整模型參數以獲得最佳效能
 3. 設定向量資料庫
 4. 完成基本設定後即可開始使用
 
@@ -76,4 +79,4 @@
 ## 取得協助
 - [官方文檔](https://docs.useanything.com/)
 - [GitHub Issues](https://github.com/Mintplex-Labs/anything-llm/issues)
-- [Discord 社群](https://discord.gg/anything-llm) 
+- [Discord 社群](https://discord.gg/anything-llm)

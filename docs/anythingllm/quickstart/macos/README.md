@@ -43,7 +43,11 @@
 
 ### 初始設定
 1. 首次啟動時，需要設定管理員帳號
-2. 選擇要使用的語言模型（本地或雲端）
+2. **選擇語言模型：強烈建議選擇「本地模型」**
+   - 本地模型可完全在您的電腦上運行，無需網路連接，確保最佳隱私保護
+   - Apple Silicon 用戶可使用針對 Metal 優化的本地模型獲得出色性能
+   - 支援多種本地模型如 LlamaCpp、Llama 3、Mistral 等
+   - 根據您的硬體配置調整模型參數以平衡性能與記憶體使用
 3. 設定向量資料庫
 4. 完成基本設定後即可開始使用
 
@@ -80,4 +84,4 @@
 ## 取得協助
 - [官方文檔](https://docs.useanything.com/)
 - [GitHub Issues](https://github.com/Mintplex-Labs/anything-llm/issues)
-- [Discord 社群](https://discord.gg/anything-llm) 
+- [Discord 社群](https://discord.gg/anything-llm)

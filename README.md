@@ -174,7 +174,10 @@
 ## 技術支援
 
 ### 📮 取得協助
+- [GitHub 專案主頁](https://github.com/chenweichiang/Course-AnythingLLM-Tools-Doc) - 取得最新源碼與更新
 - [GitHub Issues](https://github.com/chenweichiang/Course-AnythingLLM-Tools-Doc/issues) - 回報問題與建議
+- [GitHub Discussions](https://github.com/chenweichiang/Course-AnythingLLM-Tools-Doc/discussions) - 參與社群討論與分享經驗
+- [Pull Requests](https://github.com/chenweichiang/Course-AnythingLLM-Tools-Doc/pulls) - 貢獻您的改進與新功能
 - [技術支援郵件](mailto:skipclass@gmail.com) - 直接聯繫支援團隊
 - [官方資源](docs/anythingllm/complete_beginners_guide.md#實用資源) - 其他官方支援管道
 
